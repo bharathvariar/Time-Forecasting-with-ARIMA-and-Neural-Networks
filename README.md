@@ -1,3 +1,3 @@
 # DLProject
-  https://github.com/gmonaci/ARIMA/blob/master/time-series-analysis-ARIMA.ipynb <br>
-  https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
+Dataset used: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
