@@ -1,3 +1,11 @@
 # DLProject
 
-Dataset used: https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+## Packages Used
+    numpy
+    pandas
+    statsmodels
+    matplotlib.pyplot
+    keras
+    sklearn
+
+
